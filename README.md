@@ -27,7 +27,7 @@
     <a href="https://www.twitch.tv/m4rluc" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   </div>
 
-  ![Snake animation](https://github.com/M4rlucCS/M4rlucCS/blob/output/github-contribution-grid-snake.svg)
+  
  
    
   <img align="center" alt="m4rluc-gif" height="400" widht="360" src="https://i.imgur.com/XtLba6A.gif">
