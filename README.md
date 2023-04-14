@@ -2,7 +2,7 @@
 
 -Sou formado no curso técnico de contabilidade.<br>
 -Estudante de Análise e desenvolvimento de sistemas.<br>
--Estágiario na Empresa Muller comercial.
+-Analista de redes e comunicação de dados na Empresa Muller comercial.
 
 ## 
 
