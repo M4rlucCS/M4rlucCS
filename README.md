@@ -34,8 +34,7 @@ Continuar evoluindo minhas habilidades em desenvolvimento de software, arquitetu
   </div>
 
   
- 
-   
-  <img align="center" alt="m4rluc-gif" height="400" widht="360" src="https://i.imgur.com/XtLba6A.gif">
-  
+<div align="center">
+  <img alt="m4rluc-gif" height="400" width="360" src="https://i.imgur.com/XtLba6A.gif">
+</div>
  
