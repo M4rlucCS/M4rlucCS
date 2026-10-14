@@ -1,8 +1,24 @@
-## Olá! Sou o Marcelo Alencastro 🍺
+Olá! 👋 Seja bem-vindo ao meu GitHub
 
--Sou formado no curso técnico de contabilidade.<br>
--Estudante de Análise e desenvolvimento de sistemas.<br>
--Analista de redes e comunicação de dados na Empresa Muller comercial.
+Sou Analista de Desenvolvimento de Sistemas Pleno, atuando no desenvolvimento e na manutenção de sistemas corporativos.
+
+Tenho conhecimentos em desenvolvimento backend com Java, banco de dados Oracle e PL/SQL, além de conhecimentos em Spring Boot para desenvolvimento de aplicações e APIs.
+
+🛠️ Tecnologias e conhecimentos
+
+☕ Java — desenvolvimento de sistemas
+
+🗄️ Oracle Database e PL/SQL — consultas SQL, procedures e manipulação de dados
+
+🚀 Spring Boot — desenvolvimento de aplicações backend
+
+🔌 APIs REST — integração entre sistemas
+
+🧩 Desenvolvimento de sistemas corporativos
+
+🎯 Objetivo
+
+Continuar evoluindo minhas habilidades em desenvolvimento de software, arquitetura backend, integração de sistemas e soluções orientadas a dados.
 
 ## 
 
